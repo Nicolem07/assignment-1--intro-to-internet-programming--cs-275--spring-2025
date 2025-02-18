@@ -1,0 +1,61 @@
+body {
+  background-color: #efcfe4;
+}
+
+p {
+  font-family: Outfit;
+  line-height: 70px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: Chivo;
+  padding: 40px;
+  text-align: center;
+  background-color: #e5add3;
+  font-size: 50px;
+  color: white;
+}
+
+.idea {
+  background-color: white;
+  margin: 20px;
+  font-size: 20px;
+  color: #ab3b86;
+}
+
+div {
+  text-align: center;
+  margin-top: 15px;
+}
+
+a {
+  padding: 30px;
+  font-size: 30px;
+  font-family: Outfit;
+  text-decoration: none;
+  color: white;
+}
+
+.text-box {
+  background-color: white;
+  margin: 20px;
+  color: #ab3b86;
+
+}
+
+h2 {
+  padding: 10px;
+  background-color: #e5add3;
+  color: white;
+  font-size: 30px;
+  font-family: Chivo;
+}
+
+.img-center {
+  display: block;
+  margin: auto;
+  margin-bottom: 60px;
+
+}
